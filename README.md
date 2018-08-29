@@ -1,5 +1,6 @@
 # CS50_Pset1
 This repository contains three small programs that I wrote for CS50's Introduction to Computer Science. All of them are written in C.
+These programs have no connections to each other, and are here just for archiving purposes.
 
 1. Hello.c
 Prints "Hello, world!"
